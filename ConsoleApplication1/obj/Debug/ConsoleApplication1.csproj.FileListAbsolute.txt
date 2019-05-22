@@ -1,0 +1,10 @@
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pastelarth\Downloads\Ejemplo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
